@@ -1,2 +1,2 @@
-# reume_CV
+# resume_CV
 resume_cv
